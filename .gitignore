@@ -1,0 +1,119 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+include/
+scripts/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints
+# *.ipynb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 데이터 파일
+# *.csv
+# *.xlsx
+# *.xls
+# *.db
+*.sqlite3
+*.h5
+# *.pkl
+*.model
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# 로그 파일
+*.log
+logs/
+log/
+
+# 임시 파일
+tmp/
+temp/
+.tmp/
+.temp/
+
+# 설정 파일
+config.ini
+*.config
+*.conf
+
+# 기타
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.temp
+*.swp
+*.cfg
+*~
+
+# AI/ML 관련
+*.h5
+*.hdf5
+*.model
+*.bin
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.lite
+*.tfl
+*.pb
+*.savedmodel
+*.ckpt
+checkpoints/
+runs/
+wandb/
+mlruns/
+
+# OCR 관련
+*.tiff
+*.tif
+*.bmp
+*.raw
+*.dng
+*.cr2
+*.nef
+*.arw
+
+# 대용량 데이터
+*/data/
+*.mp4
+*/*/test/
+
+window_expanding.ipynb
+

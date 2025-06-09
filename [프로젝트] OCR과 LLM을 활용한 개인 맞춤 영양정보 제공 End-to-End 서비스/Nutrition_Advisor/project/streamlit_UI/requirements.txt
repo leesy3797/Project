@@ -1,0 +1,9 @@
+bardapi
+streamlit
+opencv-python
+numpy
+easyocr
+Pillow
+gTTS
+paddlepaddle==2.5.0
+paddleocr
