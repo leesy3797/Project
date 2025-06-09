@@ -22,7 +22,7 @@
 
 - **프로젝트 워크플로우** :
 
-<img src="영양박사를_아세요_Workflow.png" width="500"/>
+<img src="project_overflow.png" width="500"/>
 
 ## **주요 역할 및 기여** : Team Leader
 
